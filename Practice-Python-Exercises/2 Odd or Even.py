@@ -9,6 +9,6 @@
 num1 = int(input("Give me a number: "))
 
 if num1 % 2 == 0:
-    print ("This is an even number")
+    print (f"The number {num1} is even")
 else:
-    print ("This is an odd number")
+    print (f"The number {num1} is odd")
