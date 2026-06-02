@@ -13,4 +13,5 @@ This repository is designed to help me practice Python consistently by solving s
 # Links for practices/exercises
 
 * Practice Python (https://www.practicepython.org/)
+* PYnative (https://pynative.com/)
 
