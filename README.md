@@ -1,4 +1,10 @@
-# from zero to python 🐍
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python Logo" />
+</p>
+
+# from zero to Python
 A personal collection of Python exercises, coding challenges, and small practice projects to improve problem-solving skills and programming fundamentals.
 
 # Purpose
@@ -7,4 +13,5 @@ This repository is designed to help me practice Python consistently by solving s
 # Links for practices/exercises
 
 * Practice Python (https://www.practicepython.org/)
+* PYnative (https://pynative.com/)
 
