@@ -1,0 +1,24 @@
+# Exercise 12
+# List Comparison and Boolean
+# Write a function to return True if the first and last number of a given list is the same.
+# If the numbers are different, return False.
+
+numbers_x = [10, 20, 30, 40, 10]
+numbers_y = [75, 65, 35, 75, 30]
+
+def first_last_same(number_list):
+    print("Given list:", number_list)
+    
+    first_num = number_list[0]
+    last_num = number_list[-1]
+    
+    if first_num == last_num:
+        return True
+    else:
+        return False
+
+numbers_x = [10, 20, 30, 40, 10]
+print("result is", first_last_same(numbers_x))
+
+numbers_y = [75, 65, 35, 75, 30]
+print("result is", first_last_same(numbers_y))
