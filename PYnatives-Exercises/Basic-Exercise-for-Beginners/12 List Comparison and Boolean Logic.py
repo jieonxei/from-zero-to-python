@@ -22,3 +22,4 @@ print("result is", first_last_same(numbers_x))
 
 numbers_y = [75, 65, 35, 75, 30]
 print("result is", first_last_same(numbers_y))
+
